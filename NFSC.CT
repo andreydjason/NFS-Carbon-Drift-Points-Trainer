@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="46">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"DriftPoints"</Description>
+      <Options moRecursiveSetValue="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+      <GroupHeader>1</GroupHeader>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Toggle Activation Allow Increase</Action>
+          <Keys>
+            <Key>17</Key>
+            <Key>112</Key>
+          </Keys>
+          <Description>DriftPoints</Description>
+          <ID>0</ID>
+          <ActivateSound TTS="EN">{MRDescription} Activated</ActivateSound>
+          <DeactivateSound TTS="EN">{MRDescription} Deactivated</DeactivateSound>
+        </Hotkey>
+      </Hotkeys>
+      <CheatEntries>
+        <CheatEntry ValueOnActivate="999999">
+          <ID>3</ID>
+          <Description>"No description"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0531EB88</Address>
+        </CheatEntry>
+        <CheatEntry ValueOnActivate="999999">
+          <ID>2</ID>
+          <Description>"No description"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>052DC5E8</Address>
+        </CheatEntry>
+        <CheatEntry ValueOnActivate="999999">
+          <ID>1</ID>
+          <Description>"No description"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>052DC5E4</Address>
+        </CheatEntry>
+        <CheatEntry ValueOnActivate="999999">
+          <ID>0</ID>
+          <Description>"No description"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>052CDDB0</Address>
+        </CheatEntry>
+        <CheatEntry ValueOnActivate="999999">
+          <ID>5</ID>
+          <Description>"No description"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0533CDB0</Address>
+        </CheatEntry>
+        <CheatEntry ValueOnActivate="999999">
+          <ID>6</ID>
+          <Description>"No description"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0534BFE4</Address>
+        </CheatEntry>
+        <CheatEntry ValueOnActivate="999999">
+          <ID>7</ID>
+          <Description>"No description"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0534BFE8</Address>
+        </CheatEntry>
+        <CheatEntry ValueOnActivate="999999">
+          <ID>8</ID>
+          <Description>"No description"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>05416168</Address>
+        </CheatEntry>
+        <CheatEntry ValueOnActivate="999999">
+          <ID>9</ID>
+          <Description>"No description"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0533DDB0</Address>
+        </CheatEntry>
+        <CheatEntry ValueOnActivate="999999">
+          <ID>10</ID>
+          <Description>"No description"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>053477A4</Address>
+        </CheatEntry>
+        <CheatEntry ValueOnActivate="999999">
+          <ID>11</ID>
+          <Description>"No description"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>053477A8</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
